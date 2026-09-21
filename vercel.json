@@ -2,7 +2,7 @@
     "services": {
         "frontend": {
             "root": "frontend",
-            "framework": "nextjs"
+            "framework": "nestjs"
         },
         "backend": {
             "root": "backend"
